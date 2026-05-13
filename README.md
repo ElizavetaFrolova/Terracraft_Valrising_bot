@@ -18,7 +18,7 @@
 Склонируйте репозиторий:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ElizavetaFrolova/Terracraft_Valrising_bot
 cd Terracraft-Valrising-bot
 ```
 
