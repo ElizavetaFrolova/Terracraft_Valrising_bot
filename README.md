@@ -19,13 +19,13 @@
 
 ```bash
 git clone https://github.com/ElizavetaFrolova/Terracraft_Valrising_bot
-cd Terracraft-Valrising-bot
+cd Terracraft_Valrising_bot
 ```
 
 Если проект клонируется впервые, нужно загрузить submodule:
 
 ```bash
-git clone --recurse-submodules <repository-url>
+git clone --recurse-submodules https://github.com/ElizavetaFrolova/Terracraft_Valrising_bot
 ```
 
 ## Если проект уже склонирован без submodule:
